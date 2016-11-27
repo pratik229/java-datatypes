@@ -23,6 +23,7 @@ public class Solution {
 		/* Read and save an integer, double, and String to your variables. */
 		ii = scan.nextInt();
 		dd = scan.nextDouble();
+		scan.nextLine();
 		ss = scan.nextLine();
 
 		/* Print the sum of both integer variables on a new line. */
